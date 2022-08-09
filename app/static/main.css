@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+}
+.textbox{
+  border: 0px;
+  display: block;
+  height: 50px;
+  background-color: rgb(245, 245, 245);
+  padding-right: 100px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.rqst_btn{
+  background-color: black;
+  color:white;
+  border: 0px;
+  margin-right: 20px;
+  text-align: center;
+  padding: 10px;
+  
+
+}
+
+.shdl_btn{
+  background-color: rgb(245, 245, 245);
+  color:black;
+  border:0px;
+  text-align: center;
+  padding: 10px;
+
+
+}
+
+.big_cont{
+  display: inline-block;
+  border: 1px solid;
+  border-radius: 2px;
+  background-color:antiquewhite;
+
+}
+
+.small_cont{
+  margin: 20px;
+}
+.dogs{
+  display: inline-block;
+  margin-right: 20x;
+  width: 300px;
+  object-fit: contain; /* This is to contain the image with the width*/
+
+}
+
+#small_dog, #small_puppy, #small_delux{
+  width: 300px;
+}
+
+
+
